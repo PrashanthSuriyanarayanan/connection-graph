@@ -2,4 +2,4 @@
 
 Sample Output:
 
-![Output](connectiongraph.png?raw=true)
+![Output](connectiongraph.PNG?raw=true)
